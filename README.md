@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+A mobile app built using flutter where users can add or delete places and can rate the places for 4 different rating categories
 
-A few resources to get you started if this is your first Flutter project:
+## Application View
+Here are some screenshots of the application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Example Image](./deployImages/dep1.jpeg)
+![Example Image](./deployImages/dep2.jpeg)
+![Example Image](./deployImages/dep3.jpeg)
+![Example Image](./deployImages/dep4.jpeg)
