@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
-                    Image.network(allPlaces[i].image,width: 70,height: 70,),
+                    Image.network(allPlaces[i].image,width: 70,height: 70,cacheWidth: null,),
                     Text(allPlaces[i].name  ),
                     PopupMenuButton(itemBuilder: (context) {
                       return [
